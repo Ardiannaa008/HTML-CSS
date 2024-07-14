@@ -15,13 +15,14 @@
 body{
   background-color: rgba(0, 0, 0, 0.8);
   color: white;
+  font-family: open sans;
 }
 
 #navbar a {
     display: block;
     padding: 40px 50px;
     color: white;
-    text-decoration: none;
+    
     
     cursor: pointer;
 }
